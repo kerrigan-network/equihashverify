@@ -1,6 +1,6 @@
 {
     "name": "equihashverify",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "description": "function to check whether an Equihash solution is valid",
     "main": "equihashverify",
     "scripts": {
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/s-nomp/equihashverify"
+        "url": "https://github.com/kerrigan-network/equihashverify"
     },
     "keywords": [
         "equihash",
@@ -28,9 +28,9 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/s-nomp/equihashverify/issues"
+        "url": "https://github.com/kerrigan-network/equihashverify/issues"
     },
-    "homepage": "https://github.com/s-nomp/equihashverify",
+    "homepage": "https://github.com/kerrigan-network/equihashverify",
     "dependencies": {
         "bindings": "*",
         "libsodium": "^0.7.3",
